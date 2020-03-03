@@ -12,3 +12,4 @@ a.extend( list( range( a[0], a[1], a[2] ) ) )
 print( "Liste: ", a )
 
 print( "Pas des derniers éléments de la liste : ", a[-1 * pas:] )
+#print( "Pas des derniers éléments de la liste : ", a[-pas:] )
